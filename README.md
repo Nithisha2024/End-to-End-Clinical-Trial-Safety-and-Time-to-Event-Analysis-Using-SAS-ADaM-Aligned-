@@ -20,6 +20,7 @@ Safety Population: All treated subjects
 All data used in this project are simulated to allow full control over derivations and to avoid privacy concerns.
 
 🧩 Analysis Workflow
+
 1️⃣ Subject-Level Dataset (ADSL)
 
 Derived core demographics, treatment assignment, key dates, and population flags
